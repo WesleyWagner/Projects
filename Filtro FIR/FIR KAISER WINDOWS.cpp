@@ -7,7 +7,7 @@
 const float amp_a=0.5;//Amplitude sinal a
 const float fna=30;//Frequencia sinal a
 const float amp_b=0.5;//Amplitude sinal b
-const float fnb=1;//Frequencia sinal a
+const float fnb=1;//Frequencia sinal b
 const float M=5000;//Numero de amostras
 const float fs=100;//Frequencia de amostragem
 const float pi=3.141592;
